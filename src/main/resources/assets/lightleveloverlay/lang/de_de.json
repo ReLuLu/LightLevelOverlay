@@ -1,4 +1,6 @@
 {
   "controls.lloverlay.title": "Lichtlevel Overlay",
-  "key.lloverlay.toggle": "Overlay ein-/auschalten"
+  "key.lloverlay.toggle": "Overlay ein-/auschalten",
+  "msg.lloverlay.toggle_true": "Lightlevel Overlay aktiviert",
+  "msg.lloverlay.toggle_false": "Lightlevel Overlay deaktiviert"
 }

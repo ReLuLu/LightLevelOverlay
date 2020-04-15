@@ -1,4 +1,8 @@
 {
   "controls.lloverlay.title": "Light Level Overlay",
-  "key.lloverlay.toggle": "Toggle overlay"
+  "key.lloverlay.toggle": "Toggle overlay",
+  "msg.lloverlay.toggle_true": "Light level overlay enabled!",
+  "msg.lloverlay.toggle_false": "Light level overlay disabled!",
+  "debug.lloverlay.toggle_true": "Light level overlay enabled!",
+  "debug.lloverlay.toggle_false": "Light level overlay disabled!"
 }
