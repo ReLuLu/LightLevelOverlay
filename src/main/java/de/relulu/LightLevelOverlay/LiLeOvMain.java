@@ -48,7 +48,8 @@ public class LiLeOvMain implements ClientModInitializer {
 				logger.info(new TranslatableText(
 						overlayEnabled ? "debug.lloverlay.toggle_true" : "debug.lloverlay.toggle_false").asString());
 
-
+				// inject render stuff
+				// https://fabricmc.net/wiki/tutorial:blockappearance
 
 				//Toggle message
 				TranslatableText msg = new TranslatableText(
